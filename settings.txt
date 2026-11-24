@@ -1,0 +1,9 @@
+1.5 speed
+3 length
+10 frequency
+1 foodPts
+3 dotPts
+16 boardX
+16 boardY
+3.0 speedUp
+1.5 speedDown

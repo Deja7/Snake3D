@@ -1,0 +1,37 @@
+# Visual Studio IDE & cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+ipch/
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+Snake3D/
+
+# Build artifacts
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.tlog
+*.log
+*.lastbuildstate
+*.recipe
+*.exe
+
+# Runtime game save
+save.txt
+
+# OS files
+.DS_Store
+Thumbs.db
