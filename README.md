@@ -3,12 +3,9 @@
 A 3D Snake game written in **C++** with **SDL2**, powered by a **custom CPU-based 3D software renderer** built from scratch — without OpenGL, DirectX, or any external 3D engine.
 
 ## Screenshots
+<img width="813" height="610" alt="snake2" src="https://github.com/user-attachments/assets/51445433-6e11-4c75-a9ac-1af2e1211953" />
+<img width="885" height="666" alt="snake1" src="https://github.com/user-attachments/assets/320b0db4-4530-42f3-befb-d5c84e5806fe" />
 
-<!-- Add your gameplay screenshots here (e.g. inside a screenshots/ folder):
-| 3D Perspective Mode | 2D Top-Down Mode |
-| :---: | :---: |
-| ![3D Gameplay](screenshots/gameplay-3d.png) | ![2D Gameplay](screenshots/gameplay-2d.png) |
--->
 
 ## Highlights
 
